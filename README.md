@@ -19,6 +19,20 @@ E-commerce store enabling a user to add and delete items to a persistent shoppin
 - Payment processing of orders using Stripe API.
 - CORS enabled cross-origin requests.
 
+## Technology Stack
+
+### Back End
+
+- C#
+- .NET
+- Microsoft SQL Server
+- Microsoft Azure
+
+### Front End
+
+- TypeScript
+- Angular
+
 ## Developer
 
 [Christopher Najafi](https://www.chrisnajafi.com/)
