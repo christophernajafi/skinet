@@ -2,6 +2,10 @@
 
 E-commerce store enabling a user to add and delete items to a persistent shopping cart, checkout and pay using Stripe, and see their order history and shipping status.
 
+## Video Demonstration
+
+<https://youtu.be/XhzLdcw6tg8>
+
 ## Features
 
 - Back end written in C# using .NET.
@@ -15,8 +19,6 @@ E-commerce store enabling a user to add and delete items to a persistent shoppin
 - Payment processing of orders using Stripe API.
 - CORS enabled cross-origin requests.
 
-<!-- Screenshot: scale image, 25% -->
-
-## Author
+## Developer
 
 [Christopher Najafi](https://www.chrisnajafi.com/)
