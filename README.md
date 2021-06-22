@@ -25,8 +25,9 @@ E-commerce store enabling a user to add and delete items to a persistent shoppin
 
 - C#
 - .NET
-- Microsoft SQL Server
 - Microsoft Azure
+- Microsoft SQL Server
+- Entity Framework
 
 ### Front End
 
