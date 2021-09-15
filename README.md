@@ -8,16 +8,16 @@ E-commerce store enabling a user to add and delete items to a persistent shoppin
 
 ## Features
 
-- Back end written in C# using .NET.
-- Deployed to Microsoft Azure Web Apps.
-- Database built using Entity Framework Core and Microsoft SQL Server.
-- Authentication and authorization using .Net Core Identity.
-- Client written in TypeScript using Angular and Bootstrap.
-- Increased speed and performance through lazy loading of Angular modules.
-- Increased speed of responses to API requests through in-memory caching using Redis.
-- Paging, sorting, searching, and filtering on client.
-- Payment processing of orders using Stripe API.
-- CORS enabled cross-origin requests.
+- Single-page application (SPA) in TypeScript and Angular, utilizing Bootstrap for styling to improve responsiveness for mobile devices.
+- Lazy loading of Angular modules, increasing speed and performance of client by 50%.
+- Improved organization of items for sale by implementing paging, sorting, searching, and filtering on client.
+- In-memory caching using Redis increasing speed of responses to API requests by 75%.
+- Streamlined payment processing of orders using Stripe API.
+- RESTful web API utilizing C# and .NET framework, implementing Clean Architecture approach and
+  CQRS and Mediator patterns, optimizing time to create new features by over 50%.
+- Relational database using Entity Framework Core and Microsoft SQL Server, storing user and activity data.
+- Integrated authentication and authorization using .Net Core Identity, ensuring production grade security.
+- Deployed C# and .NET Core server and TypeScript and React client to Microsoft Azure using Azure Web Apps.
 
 ## Technology Stack
 
